@@ -13,3 +13,5 @@ awesome：http://www.zhuanzhi.ai/topic/2001034724613617/awesome
 Beyond Pixels代码解读：https://blog.csdn.net/qq_36688879/article/details/89527939
 
 Combined Image- and World-Space Tracking in Traffic Scenes
+
+deepsort:https://blog.csdn.net/dengheCSDN/article/details/79145544
